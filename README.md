@@ -3,16 +3,16 @@
 * A ecommerce App for selling vegetables 
 * Built on React Native 
 * Backend scripting in Node Js
-## App APK Download  [Link](https://expo.dev/artifacts/65b500aa-8694-4799-a5a1-fc4f8aa71115)
+## App APK Download  [Link](https://github.com/Subir-090/Basket/releases/tag/v2.0)
 
 ## Screens
 
 
-![Shah1](https://i.ibb.co/jyCw10j/5.png)
+![Shah1](https://github.com/Subir-090/Basket/releases/tag/v2.0)
 
 ## 
 
-![Shah2](https://i.ibb.co/qDqLgv7/8.png)
+![Shah2](https://github.com/Subir-090/Basket/releases/tag/v2.0)
 ## 
 
-![Shah3](https://i.ibb.co/ys7FsbW/11.png)
+![Shah3](https://github.com/Subir-090/Basket/releases/tag/v2.0)
